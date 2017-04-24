@@ -1,5 +1,4 @@
-About
-=====
+# About
 
 This is a demonstration for Pocketsphinx on Android
 
