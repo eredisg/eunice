@@ -1,4 +1,4 @@
-package edu.cmu.pocketsphinx.demo.wear;
+package io.github.lramage94.eunice.wear;
 
 import android.Manifest;
 import android.app.Activity;
@@ -33,7 +33,7 @@ public class WearActivity extends Activity implements
     private static final String MENU_SEARCH = "menu";
 
     /* Keyword we are looking for to activate menu */
-    private static final String KEYPHRASE = "oh mighty computer";
+    private static final String KEYPHRASE = "eunice";
 
     /* Used to handle permission request */
     private static final int PERMISSIONS_REQUEST_RECORD_AUDIO = 1;
