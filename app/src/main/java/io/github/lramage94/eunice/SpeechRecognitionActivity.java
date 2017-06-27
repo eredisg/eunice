@@ -28,7 +28,7 @@
  * ====================================================================
  */
 
-package edu.cmu.pocketsphinx.demo;
+package io.github.lramage94.eunice;
 
 import android.Manifest;
 import android.app.Activity;
@@ -52,7 +52,7 @@ import edu.cmu.pocketsphinx.SpeechRecognizerSetup;
 
 import static android.widget.Toast.makeText;
 
-public class PocketSphinxActivity extends Activity implements
+public class SpeechRecognitionActivity extends Activity implements
         RecognitionListener {
 
     /* Named searches allow to quickly reconfigure the decoder */
