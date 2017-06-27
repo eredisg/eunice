@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.2"
 
     defaultConfig {
-        applicationId "edu.cmu.sphinx.pocketsphinx"
+        applicationId "io.github.lramage94.eunice"
         minSdkVersion 14
         targetSdkVersion 24
         versionCode 2
