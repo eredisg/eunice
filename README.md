@@ -1,6 +1,6 @@
-# About
+# Eunice Interactive Assistant
 
-This is a demonstration for Pocketsphinx on Android
+This is a simple interactive assistant based on Pocketsphinx for Android.
 
 See for details http://cmusphinx.sourceforge.net/wiki/tutorialandroid
 
