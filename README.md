@@ -1,4 +1,4 @@
-# Eunice Interactive Assistant
+# Eunice
 
 This is a simple interactive assistant based on Pocketsphinx for Android.
 
